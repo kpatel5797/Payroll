@@ -26,35 +26,35 @@ public class Payroll
     BufferedReader buf=new BufferedReader(read);
     Payroll()throws IOException
      {
-        name[0]="Ramesh";
+        name[0]="John";
         add[0]="A-21, Palace Towers, Mumbai";
         code[0]=123;
         pan[0]="12abcd1234";
         age[0]=45;
         bsal[0]=15000.00;
         
-        name[1]="Suresh";
+        name[1]="James";
         add[1]="605, Oscar Towers, Mumbai";
         code[1]=456;
         pan[1]="23efgh2345";
         age[1]=31;
         bsal[1]=6700.00;
         
-        name[2]="Alok";
+        name[2]="Alex";
         add[2]="5, B7, Garden Society,  Mumbai";
         code[2]=789;
         pan[2]="34ijkl3456";
         age[2]=53;
         bsal[2]=12500.00;
         
-        name[3]="Kashyap";
+        name[3]="Frank";
         add[3]="12, Coral Towers, Mumbai";
         code[3]=1011;
         pan[3]="45mnop4567";
         age[3]=35;
         bsal[3]=5900.00;
         
-        name[4]="Tapan";
+        name[4]="Connor";
         add[4]="D, 706, Imperial Heights, Mumbai";
         code[4]=1213;
         pan[4]="56qrst5678";
