@@ -14,17 +14,17 @@ maintained in the payroll system.
 Some details included in a Payroll system data of an employee are as under:
 
 - Salary Payout details:
-   Dearness Allowance (DA)
-   House Rent Allowance (HRA)
-   Leave Travel Assistance (LTA)
-   Provident Fund (PF)
-   Income Tax
-   Gross Salary
+   Dearness Allowance (DA), 
+   House Rent Allowance (HRA), 
+   Leave Travel Assistance (LTA), 
+   Provident Fund (PF), 
+   Income Tax, 
+   Gross Salary, 
    Net Salary, etc.
 
 - Service Records:
-   Number of leaves taken
-   Number of leaves left
+   Number of leaves taken, 
+   Number of leaves left, 
    Number of years left for retirement, etc.
 
 - Bonus Payout: based on his/her duration of employment and Performance Scale
