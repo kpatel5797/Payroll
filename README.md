@@ -22,7 +22,7 @@ Some details included in a Payroll system data of an employee are as under:
    Gross Salary
    Net Salary, etc.
 
--Service Records:
+- Service Records:
    Number of leaves taken
    Number of leaves left
    Number of years left for retirement, etc.
