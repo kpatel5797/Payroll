@@ -1,4 +1,3 @@
-# Payroll
 
 A payroll processing system is a software and related manual procedures for paying salary and
 other dues to emloyees. In a company, payroll is the sum of all the financial records of salaries
